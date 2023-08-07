@@ -10,8 +10,10 @@ Repositorio destinado para configurações e testes dos cursos sobre Git e GitHu
 
 ## Cursos Integrados
 
-`Curso 1` ```Repositório Commit e Versões```
+- `Curso 1` ```Repositório Commit e Versões```
 
-`Curso 2` ```Controle e Compartilhe códigos```
+- `Curso 2` ```Controle e Compartilhe códigos```
+
+- `Curso 3` ```estratégias de ramificação, Conflitos e Pull Requests```
 
 
